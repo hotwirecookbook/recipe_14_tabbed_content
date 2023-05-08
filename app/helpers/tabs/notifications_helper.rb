@@ -1,0 +1,2 @@
+module Tabs::NotificationsHelper
+end
